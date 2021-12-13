@@ -1,4 +1,4 @@
-use crate::day01::*;
+use crate::day01::{part01, part02};
 
 /// read the given input file and produce vector of unsigned
 /// integers. The expected file's format should be one integer
